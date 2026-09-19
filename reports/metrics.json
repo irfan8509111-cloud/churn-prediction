@@ -1,0 +1,19 @@
+{
+  "baseline_logistic_regression": {
+    "accuracy": 0.8062,
+    "precision": 0.6593,
+    "recall": 0.5588,
+    "f1_score": 0.6049,
+    "roc_auc": 0.8422,
+    "pr_auc": 0.6349
+  },
+  "random_forest": {
+    "accuracy": 0.8041,
+    "precision": 0.6775,
+    "recall": 0.5,
+    "f1_score": 0.5754,
+    "roc_auc": 0.8446,
+    "pr_auc": 0.6585
+  },
+  "selected_model": "random_forest"
+}
